@@ -20,7 +20,7 @@ This project is a simple Flutter application demonstrating basic navigation betw
       <b>Welcome Screen</b>
     </td>
     <td align="center">
-      <img src="signin.png" width="300"/><br>
+      <img src="login.png" width="300"/><br>
       <b>Sign In Screen</b>
     </td>
   </tr>
