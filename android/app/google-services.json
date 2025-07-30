@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "107816987237",
+    "project_id": "signup-c67cf",
+    "storage_bucket": "signup-c67cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107816987237:android:3c5390ad945ab495b5348c",
+        "android_client_info": {
+          "package_name": "com.example.iti_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHFfYYU-ZNxazw4OcqluOAm_BeNz7KwOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
